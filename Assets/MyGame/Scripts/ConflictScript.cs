@@ -8,6 +8,7 @@ public class ConflictScript : MonoBehaviour
     void Start()
     {
         Debug.Log("main");
+        Debug.Log("conflict4");
     }
 
     // Update is called once per frame
