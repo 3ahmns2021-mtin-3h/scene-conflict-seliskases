@@ -7,7 +7,7 @@ public class ConflictScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("main");
     }
 
     // Update is called once per frame
